@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">LoanCalc</string>
+
+    <string-array name="terms_array">
+        <item>24 Months</item>
+        <item>36 Months</item>
+        <item>48 Months</item>
+        <item>60 Months</item>
+        <item>72 Months</item>
+        <item>84 Months</item>
+    </string-array>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+</resources>
